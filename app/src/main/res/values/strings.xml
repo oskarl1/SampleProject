@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sample Project</string>
+
+    <!-- Main Activity Strings -->
+    <string name="photo_button">PHOTO GRID</string>
+    <string name="user_list_button">USERS LIST</string>
+    <string name="login_button">LOG IN</string>
+    <string name="animation_button">ANIMATION</string>
+
+    <!-- Photo Activity Strings -->
+    <string name="activity_photo_title">Photo Grid</string>
+
+    <!-- User List Activity Strings -->
+    <string name="activity_user_list_title">Users</string>
+
+    <!-- Log In Activity Strings -->
+    <string name="activity_login_title">Log In</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+
+    <!-- Animation Activity Strings -->
+    <string name="activity_animation_title">Animation</string>
+    <string name="fade_button">FADE</string>
+</resources>
